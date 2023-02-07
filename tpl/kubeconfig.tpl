@@ -1,1 +1,1 @@
-{{ op://empc-lab/platform-$ENV/kubeconfig }}
+{{ op://cohorts/red-platform-$ENV/kubeconfig }}
